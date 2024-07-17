@@ -1,0 +1,1053 @@
+FoodCategory,FoodItem,per100grams,Cals_per100grams,KJ_per100grams,Vegan,Vegetarian,LactoseFree
+Fruits,Acai,100g,70 cal,294 kJ,TRUE,TRUE,TRUE
+Fruits,Apple,100g,52 cal,218 kJ,TRUE,TRUE,TRUE
+Fruits,Applesauce,100g,68 cal,286 kJ,TRUE,TRUE,TRUE
+Fruits,Apricot,100g,48 cal,202 kJ,TRUE,TRUE,TRUE
+Fruits,Avocado,100g,160 cal,672 kJ,TRUE,TRUE,TRUE
+Fruits,Banana,100g,89 cal,374 kJ,TRUE,TRUE,TRUE
+Fruits,Blackberries,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Fruits,Blood Oranges,100g,50 cal,210 kJ,TRUE,TRUE,TRUE
+Fruits,Blueberries,100g,57 cal,239 kJ,TRUE,TRUE,TRUE
+Fruits,Cantaloupe,100g,34 cal,143 kJ,TRUE,TRUE,TRUE
+Fruits,Cherries,100g,50 cal,210 kJ,TRUE,TRUE,TRUE
+Fruits,Clementine,100g,47 cal,197 kJ,TRUE,TRUE,TRUE
+Fruits,Cranberries,100g,46 cal,193 kJ,TRUE,TRUE,TRUE
+Fruits,Currants,100g,56 cal,235 kJ,TRUE,TRUE,TRUE
+Fruits,Custard Apple,100g,101 cal,424 kJ,TRUE,TRUE,TRUE
+Fruits,Dates,100g,282 cal,1184 kJ,TRUE,TRUE,TRUE
+Fruits,Figs,100g,74 cal,311 kJ,TRUE,TRUE,TRUE
+Fruits,Fruit salad,100g,50 cal,210 kJ,TRUE,TRUE,TRUE
+Fruits,Grapes,100g,69 cal,290 kJ,TRUE,TRUE,TRUE
+Fruits,Greengage,100g,41 cal,172 kJ,TRUE,TRUE,TRUE
+Fruits,Guava,100g,68 cal,286 kJ,TRUE,TRUE,TRUE
+Fruits,Jackfruit,100g,95 cal,399 kJ,TRUE,TRUE,TRUE
+Fruits,Jujube,100g,79 cal,332 kJ,TRUE,TRUE,TRUE
+Fruits,Kiwi,100g,61 cal,256 kJ,TRUE,TRUE,TRUE
+Fruits,Lemon,100g,29 cal,122 kJ,TRUE,TRUE,TRUE
+Fruits,Lime,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Fruits,Lychees,100g,66 cal,277 kJ,TRUE,TRUE,TRUE
+Fruits,Mandarin Oranges,100g,53 cal,223 kJ,TRUE,TRUE,TRUE
+Fruits,Mango,100g,60 cal,252 kJ,TRUE,TRUE,TRUE
+Fruits,Minneola,100g,64 cal,269 kJ,TRUE,TRUE,TRUE
+Fruits,Mulberries,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Fruits,Nectarine,100g,44 cal,185 kJ,TRUE,TRUE,TRUE
+Fruits,Olives,100g,115 cal,483 kJ,TRUE,TRUE,TRUE
+Fruits,Orange,100g,47 cal,197 kJ,TRUE,TRUE,TRUE
+Fruits,Papaya,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Fruits,Passion Fruit,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+Fruits,Peach,100g,39 cal,164 kJ,TRUE,TRUE,TRUE
+Fruits,Pear,100g,57 cal,239 kJ,TRUE,TRUE,TRUE
+Fruits,Persimmon,100g,127 cal,533 kJ,TRUE,TRUE,TRUE
+Fruits,Physalis,100g,49 cal,206 kJ,TRUE,TRUE,TRUE
+Fruits,Pineapple,100g,50 cal,210 kJ,TRUE,TRUE,TRUE
+Fruits,Plantains,100g,122 cal,512 kJ,TRUE,TRUE,TRUE
+Fruits,Plum,100g,46 cal,193 kJ,TRUE,TRUE,TRUE
+Fruits,Pomegranate,100g,83 cal,349 kJ,TRUE,TRUE,TRUE
+Fruits,Quince,100g,57 cal,239 kJ,TRUE,TRUE,TRUE
+Fruits,Raisins,100g,299 cal,1256 kJ,TRUE,TRUE,TRUE
+Fruits,Rambutan,100g,82 cal,344 kJ,TRUE,TRUE,TRUE
+Fruits,Raspberries,100g,52 cal,218 kJ,TRUE,TRUE,TRUE
+Fruits,Rhubarb,100g,21 cal,88 kJ,TRUE,TRUE,TRUE
+Fruits,Starfruit,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Fruits,Strawberries,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Fruits,Tamarind,100g,239 cal,1004 kJ,TRUE,TRUE,TRUE
+Fruits,Tangerine,100g,53 cal,223 kJ,TRUE,TRUE,TRUE
+Fruits,Watermelon,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Fruits,Acerola,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Fruits,Asian Pear,100g,42 cal,176 kJ,TRUE,TRUE,TRUE
+Fruits,Avocado,100g,160 cal,672 kJ,TRUE,TRUE,TRUE
+Fruits,Banana,100g,89 cal,374 kJ,TRUE,TRUE,TRUE
+Fruits,Breadfruit,100g,103 cal,433 kJ,TRUE,TRUE,TRUE
+Fruits,Cantaloupe Melon,100g,34 cal,143 kJ,TRUE,TRUE,TRUE
+Fruits,Casaba Melon,100g,28 cal,118 kJ,TRUE,TRUE,TRUE
+Fruits,Cherimoya,100g,75 cal,315 kJ,TRUE,TRUE,TRUE
+Fruits,Dragon Fruit,100g,60 cal,252 kJ,TRUE,TRUE,TRUE
+Fruits,Durian,100g,147 cal,617 kJ,TRUE,TRUE,TRUE
+Fruits,Feijoa,100g,55 cal,231 kJ,TRUE,TRUE,TRUE
+Fruits,Galia Melon,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Fruits,Grapefruit,100g,42 cal,176 kJ,TRUE,TRUE,TRUE
+Fruits,Guava,100g,68 cal,286 kJ,TRUE,TRUE,TRUE
+Fruits,Honeydew,100g,36 cal,151 kJ,TRUE,TRUE,TRUE
+Fruits,Jackfruit,100g,95 cal,399 kJ,TRUE,TRUE,TRUE
+Fruits,Kiwi,100g,61 cal,256 kJ,TRUE,TRUE,TRUE
+Fruits,Kumquat,100g,71 cal,298 kJ,TRUE,TRUE,TRUE
+Fruits,Lychee,100g,66 cal,277 kJ,TRUE,TRUE,TRUE
+Fruits,Mandarin Oranges,100g,53 cal,223 kJ,TRUE,TRUE,TRUE
+Fruits,Mango,100g,60 cal,252 kJ,TRUE,TRUE,TRUE
+Fruits,Mangosteen,100g,73 cal,307 kJ,TRUE,TRUE,TRUE
+Fruits,Maracuya,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+Fruits,Maraschino Cherries,100g,165 cal,693 kJ,TRUE,TRUE,TRUE
+Fruits,Muskmelon,100g,34 cal,143 kJ,TRUE,TRUE,TRUE
+Fruits,Noni,100g,53 cal,223 kJ,TRUE,TRUE,TRUE
+Fruits,Passion Fruit,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+Fruits,Pineapple,100g,50 cal,210 kJ,TRUE,TRUE,TRUE
+Fruits,Pink Grapefruit,100g,42 cal,176 kJ,TRUE,TRUE,TRUE
+Fruits,Plantain,100g,122 cal,512 kJ,TRUE,TRUE,TRUE
+Fruits,Pomegranate,100g,83 cal,349 kJ,TRUE,TRUE,TRUE
+Fruits,Pomelo,100g,38 cal,160 kJ,TRUE,TRUE,TRUE
+Fruits,Prickly Pear,100g,41 cal,172 kJ,TRUE,TRUE,TRUE
+Fruits,Rambutan,100g,82 cal,344 kJ,TRUE,TRUE,TRUE
+Fruits,Sapodilla,100g,83 cal,349 kJ,TRUE,TRUE,TRUE
+Fruits,Soursop Fruit,100g,66 cal,277 kJ,TRUE,TRUE,TRUE
+Fruits,Star Fruit,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Fruits,Tamarind,100g,239 cal,1004 kJ,TRUE,TRUE,TRUE
+Fruits,Watermelon,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Vegetables,Artichoke,100g,47 cal,197 kJ,TRUE,TRUE,TRUE
+Vegetables,Arugula,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Vegetables,Asparagus,100g,20 cal,84 kJ,TRUE,TRUE,TRUE
+Vegetables,Aubergine,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Vegetables,Beetroot,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Vegetables,Bell Pepper,100g,20 cal,84 kJ,TRUE,TRUE,TRUE
+Vegetables,Black Olives,100g,115 cal,483 kJ,TRUE,TRUE,TRUE
+Vegetables,Broccoli,100g,34 cal,143 kJ,TRUE,TRUE,TRUE
+Vegetables,Brussels Sprouts,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Vegetables,Cabbage,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Vegetables,Capsicum,100g,27 cal,113 kJ,TRUE,TRUE,TRUE
+Vegetables,Carrot,100g,41 cal,172 kJ,TRUE,TRUE,TRUE
+Vegetables,Cauliflower,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Vegetables,Celery,100g,16 cal,67 kJ,TRUE,TRUE,TRUE
+Vegetables,Chard,100g,19 cal,80 kJ,TRUE,TRUE,TRUE
+Vegetables,Cherry Tomato,100g,100 cal,420 kJ,TRUE,TRUE,TRUE
+Vegetables,Chicory,100g,72 cal,302 kJ,TRUE,TRUE,TRUE
+Vegetables,Chinese Cabbage,100g,16 cal,67 kJ,TRUE,TRUE,TRUE
+Vegetables,Chives,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Vegetables,Collard Greens,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Vegetables,Corn,100g,365 cal,1533 kJ,TRUE,TRUE,TRUE
+Vegetables,Courgette,100g,17 cal,71 kJ,TRUE,TRUE,TRUE
+Vegetables,Creamed Spinach,100g,74 cal,311 kJ,TRUE,TRUE,TRUE
+Vegetables,Cucumber,100g,16 cal,67 kJ,TRUE,TRUE,TRUE
+Vegetables,Eggplant,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Vegetables,Endive,100g,17 cal,71 kJ,TRUE,TRUE,TRUE
+Vegetables,Fennel,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Vegetables,Garlic,100g,149 cal,626 kJ,TRUE,TRUE,TRUE
+Vegetables,Gherkin,100g,14 cal,59 kJ,TRUE,TRUE,TRUE
+Vegetables,Gourd,100g,14 cal,59 kJ,TRUE,TRUE,TRUE
+Vegetables,Green Beans,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Vegetables,Green Olives,100g,115 cal,483 kJ,TRUE,TRUE,TRUE
+Vegetables,Green Onion,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Vegetables,Horseradish,100g,48 cal,202 kJ,TRUE,TRUE,TRUE
+Vegetables,Kale,100g,49 cal,206 kJ,TRUE,TRUE,TRUE
+Vegetables,Kohlrabi,100g,27 cal,113 kJ,TRUE,TRUE,TRUE
+Vegetables,Kumara,100g,86 cal,361 kJ,TRUE,TRUE,TRUE
+Vegetables,Leek,100g,61 cal,256 kJ,TRUE,TRUE,TRUE
+Vegetables,Lettuce,100g,15 cal,63 kJ,TRUE,TRUE,TRUE
+Vegetables,Mushrooms,100g,22 cal,92 kJ,TRUE,TRUE,TRUE
+Vegetables,Mustard Greens,100g,27 cal,113 kJ,TRUE,TRUE,TRUE
+Vegetables,Nori,100g,35 cal,147 kJ,TRUE,TRUE,TRUE
+Vegetables,Okra,100g,33 cal,139 kJ,TRUE,TRUE,TRUE
+Vegetables,Olives,100g,115 cal,483 kJ,TRUE,TRUE,TRUE
+Vegetables,Onion,100g,40 cal,168 kJ,TRUE,TRUE,TRUE
+Vegetables,Parsnips,100g,75 cal,315 kJ,TRUE,TRUE,TRUE
+Vegetables,Peas,100g,81 cal,340 kJ,TRUE,TRUE,TRUE
+Vegetables,Pepper,100g,27 cal,113 kJ,TRUE,TRUE,TRUE
+Vegetables,Potato,100g,77 cal,323 kJ,TRUE,TRUE,TRUE
+Vegetables,Pumpkin,100g,26 cal,109 kJ,TRUE,TRUE,TRUE
+Vegetables,Radishes,100g,16 cal,67 kJ,TRUE,TRUE,TRUE
+Vegetables,Red Cabbage,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Vegetables,Rutabaga,100g,38 cal,160 kJ,TRUE,TRUE,TRUE
+Vegetables,Shallots,100g,72 cal,302 kJ,TRUE,TRUE,TRUE
+Vegetables,Spinach,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Vegetables,Squash,100g,45 cal,189 kJ,TRUE,TRUE,TRUE
+Vegetables,Sweet Potato,100g,86 cal,361 kJ,TRUE,TRUE,TRUE
+Vegetables,Tomato,100g,18 cal,76 kJ,TRUE,TRUE,TRUE
+Vegetables,Turnip Greens,100g,20 cal,84 kJ,TRUE,TRUE,TRUE
+Vegetables,Turnips,100g,28 cal,118 kJ,TRUE,TRUE,TRUE
+Vegetables,Wasabi,100g,109 cal,458 kJ,TRUE,TRUE,TRUE
+Vegetables,Winter Squash,100g,34 cal,143 kJ,TRUE,TRUE,TRUE
+Vegetables,Zucchini,100g,17 cal,71 kJ,TRUE,TRUE,TRUE
+Cheese,American Cheese,100g,148 cal,622 kJ,FALSE,TRUE,FALSE
+Cheese,Applewood,100g,410 cal,1722 kJ,FALSE,TRUE,FALSE
+Cheese,Asiago Cheese,100g,392 cal,1646 kJ,FALSE,TRUE,FALSE
+Cheese,Babybel,100g,333 cal,1399 kJ,FALSE,TRUE,FALSE
+Cheese,Blue Cheese,100g,353 cal,1483 kJ,FALSE,TRUE,FALSE
+Cheese,Brie,100g,334 cal,1403 kJ,FALSE,TRUE,FALSE
+Cheese,Camembert,100g,300 cal,1260 kJ,FALSE,TRUE,FALSE
+Cheese,Cheddar,100g,403 cal,1693 kJ,FALSE,TRUE,FALSE
+Cheese,Cheese Fondue,100g,228 cal,958 kJ,FALSE,TRUE,FALSE
+Cheese,Cheese Spread,100g,290 cal,1218 kJ,FALSE,TRUE,FALSE
+Cheese,Cheese Whiz,100g,276 cal,1159 kJ,FALSE,TRUE,FALSE
+Cheese,Chester,100g,387 cal,1625 kJ,FALSE,TRUE,FALSE
+Cheese,Colby Cheese,100g,394 cal,1655 kJ,FALSE,TRUE,FALSE
+Cheese,Colby-Jack Cheese,100g,394 cal,1655 kJ,FALSE,TRUE,FALSE
+Cheese,Cottage Cheese,100g,98 cal,412 kJ,FALSE,TRUE,FALSE
+Cheese,Dutch Cheese,100g,393 cal,1651 kJ,FALSE,TRUE,FALSE
+Cheese,Edam Cheese,100g,357 cal,1499 kJ,FALSE,TRUE,FALSE
+Cheese,Emmentaler,100g,357 cal,1499 kJ,FALSE,TRUE,FALSE
+Cheese,Feta,100g,264 cal,1109 kJ,FALSE,TRUE,FALSE
+Cheese,Fontina,100g,389 cal,1634 kJ,FALSE,TRUE,FALSE
+Cheese,Fresh Mozzarella,100g,280 cal,1176 kJ,FALSE,TRUE,FALSE
+Cheese,Gjetost,100g,466 cal,1957 kJ,FALSE,TRUE,FALSE
+Cheese,Goat Cheese,100g,364 cal,1529 kJ,FALSE,TRUE,FALSE
+Cheese,Gorgonzola,100g,350 cal,1470 kJ,FALSE,TRUE,FALSE
+Cheese,Gouda,100g,356 cal,1495 kJ,FALSE,TRUE,FALSE
+Cheese,Grated Parmesan,100g,431 cal,1810 kJ,FALSE,TRUE,FALSE
+Cheese,Grilled Cheese,100g,350 cal,1470 kJ,FALSE,TRUE,FALSE
+Cheese,Gruyere,100g,413 cal,1735 kJ,FALSE,TRUE,FALSE
+Cheese,Halloumi,100g,321 cal,1348 kJ,FALSE,TRUE,FALSE
+Cheese,Havarti,100g,371 cal,1558 kJ,FALSE,TRUE,FALSE
+Cheese,Italian Cheese,100g,397 cal,1667 kJ,FALSE,TRUE,FALSE
+Cheese,Jarlsberg,100g,352 cal,1478 kJ,FALSE,TRUE,FALSE
+Cheese,Maasdam Cheese,100g,344 cal,1445 kJ,FALSE,TRUE,FALSE
+Cheese,Manchego Cheese,100g,320 cal,1344 kJ,FALSE,TRUE,FALSE
+Cheese,Monterey,100g,373 cal,1567 kJ,FALSE,TRUE,FALSE
+Cheese,Monterey Jack Cheese,100g,373 cal,1567 kJ,FALSE,TRUE,FALSE
+Cheese,Mozzarella,100g,280 cal,1176 kJ,FALSE,TRUE,FALSE
+Cheese,Muenster Cheese,100g,368 cal,1546 kJ,FALSE,TRUE,FALSE
+Cheese,Neufchatel,100g,253 cal,1063 kJ,FALSE,TRUE,FALSE
+Cheese,Parmesan,100g,431 cal,1810 kJ,FALSE,TRUE,FALSE
+Cheese,Pecorino,100g,387 cal,1625 kJ,FALSE,TRUE,FALSE
+Cheese,Provolone,100g,351 cal,1474 kJ,FALSE,TRUE,FALSE
+Cheese,Raclette Cheese,100g,357 cal,1499 kJ,FALSE,TRUE,FALSE
+Cheese,Ricotta,100g,174 cal,731 kJ,FALSE,TRUE,FALSE
+Cheese,Romano,100g,387 cal,1625 kJ,FALSE,TRUE,FALSE
+Cheese,Roquefort,100g,369 cal,1550 kJ,FALSE,TRUE,FALSE
+Cheese,Sheep Cheese,100g,364 cal,1529 kJ,FALSE,TRUE,FALSE
+Cheese,Soft Cheese,100g,268 cal,1126 kJ,FALSE,TRUE,FALSE
+Cheese,Stilton Cheese,100g,393 cal,1651 kJ,FALSE,TRUE,FALSE
+Cheese,String Cheese,100g,250 cal,1050 kJ,FALSE,TRUE,FALSE
+Cheese,Swiss Cheese,100g,380 cal,1596 kJ,FALSE,TRUE,FALSE
+Cheese,White Cheddar,100g,403 cal,1693 kJ,FALSE,TRUE,FALSE
+Cheese,Wisconsin Cheese,100g,389 cal,1634 kJ,FALSE,TRUE,FALSE
+CreamCheese,Chive Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Cottage Cheese,100g,98 cal,412 kJ,FALSE,TRUE,FALSE
+CreamCheese,Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Cream Cheese with Herbs,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Feta Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Garlic Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Goat Cheese,100g,364 cal,1529 kJ,FALSE,TRUE,FALSE
+CreamCheese,Horseradish,100g,48 cal,202 kJ,FALSE,TRUE,FALSE
+CreamCheese,Mascarpone,100g,450 cal,1890 kJ,FALSE,TRUE,FALSE
+CreamCheese,Obatzda,100g,303 cal,1273 kJ,FALSE,TRUE,FALSE
+CreamCheese,Olive Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Pesto Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Philadelphia Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Pineapple Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Salmon Cream Cheese,100g,342 cal,1436 kJ,FALSE,FALSE,FALSE
+CreamCheese,Vegetable Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+CreamCheese,Walnut Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Almond Milk,100ml,17 cal,71 kJ,TRUE,TRUE,TRUE
+Milk&DairyProducts,Buttermilk,100ml,62 cal,260 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Chocolate Mousse,100g,225 cal,945 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Coconut Milk,100ml,230 cal,966 kJ,TRUE,TRUE,TRUE
+Milk&DairyProducts,Coffee Creamer,100g,195 cal,819 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Condensed Milk,100g,321 cal,1348 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Cottage Cheese,100g,98 cal,412 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Cream,100g,242 cal,1016 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Creme Fraiche,100g,393 cal,1651 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Curd,100g,98 cal,412 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Custard,100g,122 cal,512 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Evaporated Milk,100g,135 cal,567 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Goat Milk,100g,69 cal,290 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Hot Chocolate,100ml,89 cal,374 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Kefir,100ml,55 cal,231 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Lactose-free Milk,100ml,52 cal,218 kJ,FALSE,TRUE,TRUE
+Milk&DairyProducts,Lassi,100ml,75 cal,315 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Milk,100ml,61 cal,256 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Plain Yogurt,100g,61 cal,256 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Powdered Milk,100g,496 cal,2083 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Quark,100g,145 cal,609 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Rice Milk,100ml,49 cal,206 kJ,TRUE,TRUE,TRUE
+Milk&DairyProducts,Rice Pudding,100g,118 cal,496 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Semi-skimmed Milk,100ml,50 cal,210 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Semolina Pudding,100g,67 cal,281 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Skim Milk,100ml,35 cal,147 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Sour Cream,100g,181 cal,760 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Soy Milk,100ml,45 cal,189 kJ,TRUE,TRUE,TRUE
+Milk&DairyProducts,Sweetened Condensed Milk,100ml,321 cal,1348 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Tzatziki,100g,117 cal,491 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Whipped Cream,100g,257 cal,1079 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Whole Milk,100ml,61 cal,256 kJ,FALSE,TRUE,FALSE
+Milk&DairyProducts,Yogurt,100g,61 cal,256 kJ,FALSE,TRUE,FALSE
+Beef&Veal,Beef,100g,171 cal,718 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Brisket,100g,137 cal,575 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Fillet,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Goulash,100g,123 cal,517 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Minute Steak,100g,133 cal,559 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Neck,100g,213 cal,895 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Pancreas,100g,271 cal,1138 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Patty,100g,247 cal,1037 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Prime Rib,100g,404 cal,1697 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Ribs,100g,196 cal,823 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Sirloin,100g,182 cal,764 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Suet,100g,854 cal,3587 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Tallow,100g,902 cal,3788 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Thymus,100g,319 cal,1340 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Beef Tripe,100g,94 cal,395 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Chuck Roast,100g,141 cal,592 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Chuck Steak,100g,137 cal,575 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Filet Mignon,100g,207 cal,869 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Flank Steak,100g,194 cal,815 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Ground Beef,100g,241 cal,1012 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Ground Chuck,100g,250 cal,1050 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Ground Round,100g,212 cal,890 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Minced Veal,100g,143 cal,601 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Porterhouse Steak,100g,247 cal,1037 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Rib Eye Steak,100g,217 cal,911 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Roast Beef,100g,187 cal,785 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Rump Steak,100g,171 cal,718 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Skirt Steak,100g,205 cal,861 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Stew Beef,100g,191 cal,802 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Strip Steak,100g,117 cal,491 kJ,FALSE,FALSE,TRUE
+Beef&Veal,T-Bone-Steak,100g,221 cal,928 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal,100g,282 cal,1184 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Breast,100g,282 cal,1184 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Leg,100g,211 cal,886 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Roast Beef,100g,175 cal,735 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Shank,100g,177 cal,743 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Shoulder,100g,183 cal,769 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Sirloin,100g,204 cal,857 kJ,FALSE,FALSE,TRUE
+Beef&Veal,Veal Tenderloin,100g,217 cal,911 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Baked Ham,100g,343 cal,1441 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Beef Salami,100g,375 cal,1575 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Boiled Ham,100g,126 cal,529 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Bologna,100g,247 cal,1037 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Bresaola,100g,178 cal,748 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Capicola,100g,110 cal,462 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Chicken Breast Fillet,100g,79 cal,332 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Chopped Ham,100g,180 cal,756 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Chorizo,100g,455 cal,1911 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Corned Beef,100g,251 cal,1054 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Dutch Loaf,100g,268 cal,1126 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Ham,100g,145 cal,609 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Ham Sausage,100g,164 cal,689 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Head Cheese,100g,157 cal,659 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Hickory Ham,100g,188 cal,790 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Honey Ham,100g,122 cal,512 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Liverwurst,100g,326 cal,1369 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Olive Loaf,100g,232 cal,974 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Oven-Roasted Turkey Breast,100g,104 cal,437 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Parma Ham,100g,345 cal,1449 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Pastrami,100g,133 cal,559 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Pepperoni,100g,494 cal,2075 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Pimento Loaf,100g,265 cal,1113 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Pork Roast,100g,247 cal,1037 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Prosciutto,100g,195 cal,819 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Roast Beef,100g,267 cal,1121 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Salami,100g,336 cal,1411 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Serrano Ham,100g,300 cal,1260 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Smoked Ham,100g,107 cal,449 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Smoked Turkey Breast,100g,104 cal,437 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Summer Sausage,100g,298 cal,1252 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Tongue,100g,284 cal,1193 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Turkey Breast,100g,104 cal,437 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Turkey Ham,100g,126 cal,529 kJ,FALSE,FALSE,TRUE
+ColdCuts&LunchMeat,Turkey Salami,100g,152 cal,638 kJ,FALSE,FALSE,TRUE
+Meat,Beef,100g,248 cal,1042 kJ,FALSE,FALSE,TRUE
+Meat,Beef Brisket,100g,242 cal,1016 kJ,FALSE,FALSE,TRUE
+Meat,Beef Jerky,100g,410 cal,1722 kJ,FALSE,FALSE,TRUE
+Meat,Beef Ribs,100g,238 cal,1000 kJ,FALSE,FALSE,TRUE
+Meat,Beef Tenderloin,100g,218 cal,916 kJ,FALSE,FALSE,TRUE
+Meat,Chicken,100g,219 cal,920 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Breast,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Drumstick,100g,185 cal,777 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Fat,100g,898 cal,3772 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Giblets,100g,158 cal,664 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Gizzards,100g,146 cal,613 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Leg,100g,174 cal,731 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Liver,100g,167 cal,701 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Meat,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Thigh,100g,229 cal,962 kJ,FALSE,FALSE,TRUE
+Meat,Chicken Wing,100g,266 cal,1117 kJ,FALSE,FALSE,TRUE
+Meat,Chuck Steak,100g,277 cal,1163 kJ,FALSE,FALSE,TRUE
+Meat,Cubed Steak,100g,199 cal,836 kJ,FALSE,FALSE,TRUE
+Meat,Duck,100g,337 cal,1415 kJ,FALSE,FALSE,TRUE
+Meat,Filet Mignon,100g,267 cal,1121 kJ,FALSE,FALSE,TRUE
+Meat,Flank Steak,100g,194 cal,815 kJ,FALSE,FALSE,TRUE
+Meat,Flat Iron Steak,100g,137 cal,575 kJ,FALSE,FALSE,TRUE
+Meat,Ground Beef,100g,246 cal,1033 kJ,FALSE,FALSE,TRUE
+Meat,Ground Round,100g,246 cal,1033 kJ,FALSE,FALSE,TRUE
+Meat,Ham,100g,163 cal,685 kJ,FALSE,FALSE,TRUE
+Meat,New York Strip Steak,100g,199 cal,836 kJ,FALSE,FALSE,TRUE
+Meat,Ostrich,100g,145 cal,609 kJ,FALSE,FALSE,TRUE
+Meat,Pork,100g,196 cal,823 kJ,FALSE,FALSE,TRUE
+Meat,Pork Baby Back Ribs,100g,212 cal,890 kJ,FALSE,FALSE,TRUE
+Meat,Pork Chops,100g,196 cal,823 kJ,FALSE,FALSE,TRUE
+Meat,Pork Country-Style Ribs,100g,247 cal,1037 kJ,FALSE,FALSE,TRUE
+Meat,Pork Loin,100g,204 cal,857 kJ,FALSE,FALSE,TRUE
+Meat,Pork Roast,100g,254 cal,1067 kJ,FALSE,FALSE,TRUE
+Meat,Pork Steaks,100g,196 cal,823 kJ,FALSE,FALSE,TRUE
+Meat,Roast Beef,100g,140 cal,588 kJ,FALSE,FALSE,TRUE
+Meat,Round Steak,100g,182 cal,764 kJ,FALSE,FALSE,TRUE
+Meat,Schnitzel,100g,156 cal,655 kJ,FALSE,FALSE,TRUE
+Meat,Spare Ribs,100g,238 cal,1000 kJ,FALSE,FALSE,TRUE
+Meat,Standing Rib Roast,100g,333 cal,1399 kJ,FALSE,FALSE,TRUE
+Meat,T-Bone Steak,100g,202 cal,848 kJ,FALSE,FALSE,TRUE
+Meat,Turkey,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Meat,Turkey Breast,100g,135 cal,567 kJ,FALSE,FALSE,TRUE
+Meat,Turkey Legs,100g,208 cal,874 kJ,FALSE,FALSE,TRUE
+Meat,Turkey Steak,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Meat,Turkey Wings,100g,221 cal,928 kJ,FALSE,FALSE,TRUE
+Pork,Bacon,100g,407 cal,1709 kJ,FALSE,FALSE,TRUE
+Pork,Brawn,100g,309 cal,1298 kJ,FALSE,FALSE,TRUE
+Pork,Canadian-Style Bacon,100g,107 cal,449 kJ,FALSE,FALSE,TRUE
+Pork,Chitterlings,100g,233 cal,979 kJ,FALSE,FALSE,TRUE
+Pork,Ground Pork,100g,263 cal,1105 kJ,FALSE,FALSE,TRUE
+Pork,Hog Maws,100g,250 cal,1050 kJ,FALSE,FALSE,TRUE
+Pork,Lard,100g,898 cal,3772 kJ,FALSE,FALSE,TRUE
+Pork,Meatloaf,100g,89 cal,374 kJ,FALSE,FALSE,TRUE
+Pork,Parma Ham,100g,261 cal,1096 kJ,FALSE,FALSE,TRUE
+Pork,Pig Ear,100g,166 cal,697 kJ,FALSE,FALSE,TRUE
+Pork,Pig Fat,100g,638 cal,2680 kJ,FALSE,FALSE,TRUE
+Pork,Pig’s Tail,100g,396 cal,1663 kJ,FALSE,FALSE,TRUE
+Pork,Pig’s Trotter,100g,243 cal,1021 kJ,FALSE,FALSE,TRUE
+Pork,Pork Bacon,100g,407 cal,1709 kJ,FALSE,FALSE,TRUE
+Pork,Pork Belly,100g,518 cal,2176 kJ,FALSE,FALSE,TRUE
+Pork,Pork Blade Steak,100g,232 cal,974 kJ,FALSE,FALSE,TRUE
+Pork,Pork Chop,100g,123 cal,517 kJ,FALSE,FALSE,TRUE
+Pork,Pork Country-Style Ribs,100g,133 cal,559 kJ,FALSE,FALSE,TRUE
+Pork,Pork Crown Roast,100g,212 cal,890 kJ,FALSE,FALSE,TRUE
+Pork,Pork Cutlet,100g,131 cal,550 kJ,FALSE,FALSE,TRUE
+Pork,Pork Cutlets,100g,131 cal,550 kJ,FALSE,FALSE,TRUE
+Pork,Pork Leg,100g,201 cal,844 kJ,FALSE,FALSE,TRUE
+Pork,Pork Loin,100g,143 cal,601 kJ,FALSE,FALSE,TRUE
+Pork,Pork Meatloaf,100g,243 cal,1021 kJ,FALSE,FALSE,TRUE
+Pork,Pork Ragout,100g,73 cal,307 kJ,FALSE,FALSE,TRUE
+Pork,Pork Rib Roast,100g,159 cal,668 kJ,FALSE,FALSE,TRUE
+Pork,Pork Ribs,100g,292 cal,1226 kJ,FALSE,FALSE,TRUE
+Pork,Pork Roast,100g,194 cal,815 kJ,FALSE,FALSE,TRUE
+Pork,Pork Sausage,100g,339 cal,1424 kJ,FALSE,FALSE,TRUE
+Pork,Pork Shank,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Pork,Pork Shoulder,100g,269 cal,1130 kJ,FALSE,FALSE,TRUE
+Pork,Pork Shoulder Blade,100g,232 cal,974 kJ,FALSE,FALSE,TRUE
+Pork,Pork Stomach,100g,250 cal,1050 kJ,FALSE,FALSE,TRUE
+Pork,Rack of Pork,100g,241 cal,1012 kJ,FALSE,FALSE,TRUE
+Pork,Salt Meat,100g,286 cal,1201 kJ,FALSE,FALSE,TRUE
+Pork,Salt Pork,100g,286 cal,1201 kJ,FALSE,FALSE,TRUE
+Pork,Serrano Ham,100g,339 cal,1424 kJ,FALSE,FALSE,TRUE
+Pork,Spare Ribs,100g,396 cal,1663 kJ,FALSE,FALSE,TRUE
+Pork,Spareribs,100g,238 cal,1000 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Capon,100g,229 cal,962 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken,100g,219 cal,920 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Breast,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Drumsticks,100g,185 cal,777 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Gizzards,100g,154 cal,647 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Legs,100g,174 cal,731 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Thighs,100g,229 cal,962 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Chicken Wings,100g,266 cal,1117 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Cornish Hens,100g,259 cal,1088 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Duck,100g,337 cal,1415 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Duck Breast,100g,201 cal,844 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Goose,100g,305 cal,1281 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Breast,100g,135 cal,567 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Cutlet,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Drumsticks,100g,208 cal,874 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Legs,100g,208 cal,874 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Steak,100g,189 cal,794 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Turkey Wings,100g,221 cal,928 kJ,FALSE,FALSE,TRUE
+Poultry&Fowl,Wild Duck,100g,211 cal,886 kJ,FALSE,FALSE,TRUE
+Juice,Acai Juice,100ml,58 cal,244 kJ,TRUE,TRUE,TRUE
+Juice,Aloe Vera,100ml,44 cal,185 kJ,TRUE,TRUE,TRUE
+Juice,Apple Juice,100ml,46 cal,193 kJ,TRUE,TRUE,TRUE
+Juice,Apricot Nectar,100ml,56 cal,235 kJ,TRUE,TRUE,TRUE
+Juice,Banana Juice,100ml,50 cal,210 kJ,TRUE,TRUE,TRUE
+Juice,Blackberry Juice,100ml,48 cal,202 kJ,TRUE,TRUE,TRUE
+Juice,Boysenberry Juice,100ml,54 cal,227 kJ,TRUE,TRUE,TRUE
+Juice,Capri-Sun,100ml,41 cal,172 kJ,TRUE,TRUE,TRUE
+Juice,Carrot Juice,100ml,40 cal,168 kJ,TRUE,TRUE,TRUE
+Juice,Chamomile Tea,100ml,0 cal,0 kJ,TRUE,TRUE,TRUE
+Juice,Cherry Juice,100ml,45 cal,189 kJ,TRUE,TRUE,TRUE
+Juice,Clamato,100ml,60 cal,252 kJ,TRUE,TRUE,TRUE
+Juice,Coconut Milk,100ml,233 cal,979 kJ,TRUE,TRUE,TRUE
+Juice,Coconut Water,100ml,19 cal,80 kJ,TRUE,TRUE,TRUE
+Juice,Concord Grape,100ml,71 cal,298 kJ,TRUE,TRUE,TRUE
+Juice,Cranberry Apple Juice,100ml,67 cal,281 kJ,TRUE,TRUE,TRUE
+Juice,Cranberry Grape Juice,100ml,71 cal,298 kJ,TRUE,TRUE,TRUE
+Juice,Cranberry Juice,100ml,46 cal,193 kJ,TRUE,TRUE,TRUE
+Juice,Cucumber Juice,100ml,10 cal,42 kJ,TRUE,TRUE,TRUE
+Juice,Currant Juice,100ml,48 cal,202 kJ,TRUE,TRUE,TRUE
+Juice,Energy-Drink,100ml,87 cal,365 kJ,TRUE,TRUE,TRUE
+Juice,Fruitopia,100ml,110 cal,462 kJ,TRUE,TRUE,TRUE
+Juice,Grape Juice,100ml,60 cal,252 kJ,TRUE,TRUE,TRUE
+Juice,Grapefruit Juice,100ml,46 cal,193 kJ,TRUE,TRUE,TRUE
+Juice,Lemon Juice,100ml,21 cal,88 kJ,TRUE,TRUE,TRUE
+Juice,Lemonade,100ml,50 cal,210 kJ,TRUE,TRUE,TRUE
+Juice,Lime Juice,100ml,21 cal,88 kJ,TRUE,TRUE,TRUE
+Juice,Limeade,100ml,128 cal,538 kJ,TRUE,TRUE,TRUE
+Juice,Mango Lassi,100ml,66 cal,277 kJ,TRUE,TRUE,TRUE
+Juice,Nestea,100ml,21 cal,88 kJ,TRUE,TRUE,TRUE
+Juice,Orange Juice,100ml,46 cal,193 kJ,TRUE,TRUE,TRUE
+Juice,Papaya Juice,100ml,58 cal,244 kJ,TRUE,TRUE,TRUE
+Juice,Passion Fruit Juice,100ml,48 cal,202 kJ,TRUE,TRUE,TRUE
+Juice,Peach Juice,100ml,54 cal,227 kJ,TRUE,TRUE,TRUE
+Juice,Peach Nectar,100ml,54 cal,227 kJ,TRUE,TRUE,TRUE
+Juice,Pear Juice,100ml,60 cal,252 kJ,TRUE,TRUE,TRUE
+Juice,Pear Nectar,100ml,60 cal,252 kJ,TRUE,TRUE,TRUE
+Juice,Pineapple Juice,100ml,53 cal,223 kJ,TRUE,TRUE,TRUE
+Juice,Pineapple Orange Juice,100ml,50 cal,210 kJ,TRUE,TRUE,TRUE
+Juice,Plum Juice,100ml,71 cal,298 kJ,TRUE,TRUE,TRUE
+Juice,Pomegranate Juice,100ml,66 cal,277 kJ,TRUE,TRUE,TRUE
+Juice,Sauerkraut Juice,100ml,14 cal,59 kJ,TRUE,TRUE,TRUE
+Juice,Tangerine Juice,100ml,43 cal,181 kJ,TRUE,TRUE,TRUE
+Juice,Tomato Juice,100ml,17 cal,71 kJ,TRUE,TRUE,TRUE
+Juice,Vegetable Juice,100ml,21 cal,88 kJ,TRUE,TRUE,TRUE
+Juice,White Grape Juice,100ml,75 cal,315 kJ,TRUE,TRUE,TRUE
+CerealProducts,Amaranth,100g,371 cal,1558 kJ,TRUE,TRUE,TRUE
+CerealProducts,Barley,100g,354 cal,1487 kJ,TRUE,TRUE,TRUE
+CerealProducts,Barley Groats,100g,100 cal,420 kJ,TRUE,TRUE,TRUE
+CerealProducts,Brown Rice,100g,388 cal,1630 kJ,TRUE,TRUE,TRUE
+CerealProducts,Buckwheat,100g,343 cal,1441 kJ,TRUE,TRUE,TRUE
+CerealProducts,Buckwheat Groats,100g,346 cal,1453 kJ,TRUE,TRUE,TRUE
+CerealProducts,Corn Waffles,100g,274 cal,1151 kJ,TRUE,TRUE,TRUE
+CerealProducts,Cornmeal,100g,362 cal,1520 kJ,TRUE,TRUE,TRUE
+CerealProducts,Cornstarch,100g,381 cal,1600 kJ,TRUE,TRUE,TRUE
+CerealProducts,Couscous,100g,376 cal,1579 kJ,TRUE,TRUE,TRUE
+CerealProducts,Cracker,100g,502 cal,2108 kJ,TRUE,TRUE,TRUE
+CerealProducts,Durum Wheat Semolina,100g,397 cal,1667 kJ,TRUE,TRUE,TRUE
+CerealProducts,Flaxseed,100g,534 cal,2243 kJ,TRUE,TRUE,TRUE
+CerealProducts,Freekeh,100g,520 cal,2184 kJ,TRUE,TRUE,TRUE
+CerealProducts,Gluten,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+CerealProducts,Grissini,100g,408 cal,1714 kJ,TRUE,TRUE,TRUE
+CerealProducts,Kamut,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+CerealProducts,Millet,100g,378 cal,1588 kJ,TRUE,TRUE,TRUE
+CerealProducts,Millet Flour,100g,372 cal,1562 kJ,TRUE,TRUE,TRUE
+CerealProducts,Millet Gruel,100g,46 cal,193 kJ,TRUE,TRUE,TRUE
+CerealProducts,Oat Bran,100g,246 cal,1033 kJ,TRUE,TRUE,TRUE
+CerealProducts,Pearl Barley,100g,352 cal,1478 kJ,TRUE,TRUE,TRUE
+CerealProducts,Polenta,100g,366 cal,1537 kJ,TRUE,TRUE,TRUE
+CerealProducts,Prawn Crackers,100g,527 cal,2213 kJ,TRUE,TRUE,TRUE
+CerealProducts,Pretzel Sticks,100g,380 cal,1596 kJ,TRUE,TRUE,TRUE
+CerealProducts,Quinoa,100g,368 cal,1546 kJ,TRUE,TRUE,TRUE
+CerealProducts,Rusk,100g,410 cal,1722 kJ,TRUE,TRUE,TRUE
+CerealProducts,Rye Bran,100g,281 cal,1180 kJ,TRUE,TRUE,TRUE
+CerealProducts,Sago,100g,354 cal,1487 kJ,TRUE,TRUE,TRUE
+CerealProducts,Savoury Biscuits,100g,347 cal,1457 kJ,TRUE,TRUE,TRUE
+CerealProducts,Shortbread,100g,502 cal,2108 kJ,TRUE,TRUE,TRUE
+CerealProducts,Spelt,100g,338 cal,1420 kJ,TRUE,TRUE,TRUE
+CerealProducts,Spelt Bran,100g,177 cal,743 kJ,TRUE,TRUE,TRUE
+CerealProducts,Spelt Semolina,100g,360 cal,1512 kJ,TRUE,TRUE,TRUE
+CerealProducts,Sunflower Seeds,100g,584 cal,2453 kJ,TRUE,TRUE,TRUE
+CerealProducts,Tortilla,100g,237 cal,995 kJ,TRUE,TRUE,TRUE
+CerealProducts,Tortilla Chips,100g,499 cal,2096 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wheat Bran,100g,216 cal,907 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wheat Germ,100g,382 cal,1604 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wheat Gluten,100g,325 cal,1365 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wheat Semolina,100g,360 cal,1512 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wheat Starch,100g,351 cal,1474 kJ,TRUE,TRUE,TRUE
+CerealProducts,Whole Grain Wheat,100g,339 cal,1424 kJ,TRUE,TRUE,TRUE
+CerealProducts,Wholegrain Oat,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Cannelloni,100g,146 cal,613 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Capellini,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Cappelletti,100g,164 cal,689 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Cellophane Noodles,100g,351 cal,1474 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Cheese Tortellini,100g,291 cal,1222 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Dampfnudel,100g,274 cal,1151 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Dumpling Dough,100g,99 cal,416 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Durum Wheat Semolina,100g,397 cal,1667 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Egg Noodles,100g,384 cal,1613 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Farfalle,100g,358 cal,1504 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Fettuccine,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Fusilli,100g,352 cal,1478 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Glass Noodles,100g,192 cal,806 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Lasagne Sheets,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Linguine,100g,357 cal,1499 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Low Carb Pasta,100g,282 cal,1184 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Macaroni,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Manicotti,100g,357 cal,1499 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Mostaccioli,100g,184 cal,773 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Orecchiette,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Orzo,100g,357 cal,1499 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Penne,100g,351 cal,1474 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Penne Rigate,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Pierogi,100g,200 cal,840 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Ravioli,100g,77 cal,323 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Rigatoni,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Rotini,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Shells,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Shirataki Noodles,100g,18 cal,76 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Soy Noodles,100g,216 cal,907 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Spaetzle,100g,368 cal,1546 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Spaghetti,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Spinach Tortellini,100g,314 cal,1319 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Spirelli,100g,367 cal,1541 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Tagliatelle,100g,370 cal,1554 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Tortellini,100g,291 cal,1222 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Vermicelli,100g,368 cal,1546 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Whole Grain Noodles,100g,347 cal,1457 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Whole Grain Spaghetti,100g,351 cal,1474 kJ,TRUE,TRUE,TRUE
+Pasta&Noodles,Ziti,100g,352 cal,1478 kJ,TRUE,TRUE,TRUE
+Legumes,Azuki Bean,100g,124 cal,521 kJ,TRUE,TRUE,TRUE
+Legumes,Bamboo Shoots,100g,27 cal,113 kJ,TRUE,TRUE,TRUE
+Legumes,Bean Curd,100g,76 cal,319 kJ,TRUE,TRUE,TRUE
+Legumes,Bean Sprouts,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Legumes,Bengal Gram,100g,364 cal,1529 kJ,TRUE,TRUE,TRUE
+Legumes,Black Beans,100g,341 cal,1432 kJ,TRUE,TRUE,TRUE
+Legumes,Black Chickpeas,100g,364 cal,1529 kJ,TRUE,TRUE,TRUE
+Legumes,Black Gram,100g,341 cal,1432 kJ,TRUE,TRUE,TRUE
+Legumes,Brown Lentil,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Legumes,Butternut,100g,612 cal,2570 kJ,TRUE,TRUE,TRUE
+Legumes,Chickpeas,100g,364 cal,1529 kJ,TRUE,TRUE,TRUE
+Legumes,Chili Bean,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+Legumes,Dal,100g,230 cal,966 kJ,TRUE,TRUE,TRUE
+Legumes,Deep-Fried Tofu,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+Legumes,Extra-Firm Tofu,100g,91 cal,382 kJ,TRUE,TRUE,TRUE
+Legumes,Firm Tofu,100g,70 cal,294 kJ,TRUE,TRUE,TRUE
+Legumes,Flageolet,100g,85 cal,357 kJ,TRUE,TRUE,TRUE
+Legumes,Fried Bean Curd,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+Legumes,Green Beans,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Legumes,Green Gram,100g,347 cal,1457 kJ,TRUE,TRUE,TRUE
+Legumes,Green Lentil,100g,257 cal,1079 kJ,TRUE,TRUE,TRUE
+Legumes,Kidney Beans,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+Legumes,Lentils,100g,353 cal,1483 kJ,TRUE,TRUE,TRUE
+Legumes,Lima Beans,100g,71 cal,298 kJ,TRUE,TRUE,TRUE
+Legumes,Marron,100g,210 cal,882 kJ,TRUE,TRUE,TRUE
+Legumes,Miso,100g,199 cal,836 kJ,TRUE,TRUE,TRUE
+Legumes,Mung Beans,100g,12 cal,50 kJ,TRUE,TRUE,TRUE
+Legumes,Natto,100g,212 cal,890 kJ,TRUE,TRUE,TRUE
+Legumes,Navy Bean,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+Legumes,Okara,100g,77 cal,323 kJ,TRUE,TRUE,TRUE
+Legumes,Okra,100g,33 cal,139 kJ,TRUE,TRUE,TRUE
+Legumes,Peanuts,100g,567 cal,2381 kJ,TRUE,TRUE,TRUE
+Legumes,Peas,100g,42 cal,176 kJ,TRUE,TRUE,TRUE
+Legumes,Pecan,100g,691 cal,2902 kJ,TRUE,TRUE,TRUE
+Legumes,Pinto Beans,100g,347 cal,1457 kJ,TRUE,TRUE,TRUE
+Legumes,Puy Lentils,100g,345 cal,1449 kJ,TRUE,TRUE,TRUE
+Legumes,Rajma,100g,140 cal,588 kJ,TRUE,TRUE,TRUE
+Legumes,Red Beans,100g,124 cal,521 kJ,TRUE,TRUE,TRUE
+Legumes,Red Kidney Bean,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+Legumes,Red Lentils,100g,329 cal,1382 kJ,TRUE,TRUE,TRUE
+Legumes,Refried Beans,100g,91 cal,382 kJ,TRUE,TRUE,TRUE
+Legumes,Roasted Soybeans,100g,471 cal,1978 kJ,TRUE,TRUE,TRUE
+Legumes,Silken Tofu,100g,55 cal,231 kJ,TRUE,TRUE,TRUE
+Legumes,Soft Tofu,100g,61 cal,256 kJ,TRUE,TRUE,TRUE
+Legumes,Soy Cheese,100g,235 cal,987 kJ,TRUE,TRUE,TRUE
+Legumes,Soy Mayonnaise,100g,322 cal,1352 kJ,TRUE,TRUE,TRUE
+Legumes,Soy Nut Butter,100g,562 cal,2360 kJ,TRUE,TRUE,TRUE
+Legumes,Soy Nuts,100g,471 cal,1978 kJ,TRUE,TRUE,TRUE
+Legumes,Soy Yogurt,100g,66 cal,277 kJ,TRUE,TRUE,TRUE
+Legumes,Soya Cheese,100g,235 cal,987 kJ,TRUE,TRUE,TRUE
+Legumes,Soybeans,100g,147 cal,617 kJ,TRUE,TRUE,TRUE
+Legumes,Soynut Butter,100g,562 cal,2360 kJ,TRUE,TRUE,TRUE
+Legumes,Sugar Peas,100g,42 cal,176 kJ,TRUE,TRUE,TRUE
+Legumes,Sweet Peas,100g,48 cal,202 kJ,TRUE,TRUE,TRUE
+Legumes,Tempeh,100g,193 cal,811 kJ,TRUE,TRUE,TRUE
+Legumes,Textured Soy Protein,100g,571 cal,2398 kJ,TRUE,TRUE,TRUE
+Legumes,Textured Vegetable Protein,100g,333 cal,1399 kJ,TRUE,TRUE,TRUE
+Legumes,Tofu,100g,76 cal,319 kJ,TRUE,TRUE,TRUE
+Legumes,White Beans,100g,336 cal,1411 kJ,TRUE,TRUE,TRUE
+Legumes,Yam Bean,100g,38 cal,160 kJ,TRUE,TRUE,TRUE
+Legumes,Yellow Lentils,100g,304 cal,1277 kJ,TRUE,TRUE,TRUE
+Legumes,Yuba,100g,176 cal,739 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Acorn,100g,387 cal,1625 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Alfalfa Sprouts,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Almonds,100g,575 cal,2415 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Beechnut,100g,576 cal,2419 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Brazil Nuts,100g,656 cal,2755 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Breadfruit,100g,191 cal,802 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Butternut,100g,612 cal,2570 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Cashew,100g,553 cal,2323 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Chestnut,100g,213 cal,895 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Chia Seeds,100g,486 cal,2041 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Coconut,100g,354 cal,1487 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Cotton Seeds,100g,506 cal,2125 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Flaxseed,100g,534 cal,2243 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Ginkgo Nuts,100g,182 cal,764 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Goa Bean,100g,409 cal,1718 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Hazelnut,100g,628 cal,2638 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Hickory Nuts,100g,657 cal,2759 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Lima Beans,100g,71 cal,298 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Lotus Seed,100g,89 cal,374 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Macadamia Nuts,100g,718 cal,3016 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Peanuts,100g,567 cal,2381 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Peas,100g,81 cal,340 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pecan Nuts,100g,691 cal,2902 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pecans,100g,691 cal,2902 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pili Nuts,100g,719 cal,3020 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pine Nuts,100g,673 cal,2827 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pinto Beans,100g,347 cal,1457 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pistachios,100g,562 cal,2360 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Poppy Seeds,100g,525 cal,2205 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Pumpkin Seeds,100g,559 cal,2348 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Radish Seeds,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Safflower Seeds,100g,517 cal,2171 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Sesame Seeds,100g,573 cal,2407 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Smoked Almonds,100g,575 cal,2415 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Soy Beans,100g,147 cal,617 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Sunflower Seeds,100g,584 cal,2453 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Sweet Chestnut,100g,194 cal,815 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Walnuts,100g,654 cal,2747 kJ,TRUE,TRUE,TRUE
+Nuts&Seeds,Watermelon,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Almond Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Avocado Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Butter,100g,720 cal,3024 kJ,FALSE,TRUE,FALSE
+Oils&Fats,Canola Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Coconut Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Cod Liver Oil,100ml,1000 cal,4200 kJ,FALSE,FALSE,TRUE
+Oils&Fats,Corn Oil,100ml,800 cal,3360 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Cottonseed Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Flaxseed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Ghee,100g,120 cal,504 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Goose Fat,100g,898 cal,3772 kJ,FALSE,FALSE,TRUE
+Oils&Fats,Grape Seed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Hemp Oil,100ml,807 cal,3389 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Herring Oil,100ml,902 cal,3788 kJ,FALSE,FALSE,TRUE
+Oils&Fats,Lard,100g,902 cal,3788 kJ,FALSE,FALSE,TRUE
+Oils&Fats,Macadamia Oil,100ml,819 cal,3440 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Margarine,100g,717 cal,3011 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Mustard Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Olive Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Palm Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Peanut Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Real Butter,100g,720 cal,3024 kJ,FALSE,TRUE,FALSE
+Oils&Fats,Rice Bran Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Safflower Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Sardine Oil,100ml,902 cal,3788 kJ,FALSE,FALSE,TRUE
+Oils&Fats,Sesame Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Soybean Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Sunflower Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+Oils&Fats,Walnut Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Almond Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+VegetableOils,Apricot Kernel Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Argan Oil,100ml,896 cal,3763 kJ,TRUE,TRUE,TRUE
+VegetableOils,Avocado Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+VegetableOils,Babassu Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Canola Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Coconut Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+VegetableOils,Corn Oil,100ml,800 cal,3360 kJ,TRUE,TRUE,TRUE
+VegetableOils,Cottonseed Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+VegetableOils,Flaxseed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Grape Seed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Hazelnut Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Linseed Oil,100ml,837 cal,3515 kJ,TRUE,TRUE,TRUE
+VegetableOils,Menhaden Oil,100ml,911 cal,3826 kJ,TRUE,TRUE,TRUE
+VegetableOils,Mustard Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Oat Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Olive Oil,100ml,800 cal,3360 kJ,TRUE,TRUE,TRUE
+VegetableOils,Palm Kernel Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+VegetableOils,Palm Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+VegetableOils,Peanut Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+VegetableOils,Poppy Seed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Pumpkin Seed Oil,100ml,880 cal,3696 kJ,TRUE,TRUE,TRUE
+VegetableOils,Rice Bran Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Safflower Oil,100ml,857 cal,3599 kJ,TRUE,TRUE,TRUE
+VegetableOils,Salmon Oil,100ml,911 cal,3826 kJ,TRUE,TRUE,TRUE
+VegetableOils,Sesame Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Shea Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Soy Oil,100ml,882 cal,3704 kJ,TRUE,TRUE,TRUE
+VegetableOils,Sunflower Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Tomato Seed Oil,100ml,884 cal,3713 kJ,TRUE,TRUE,TRUE
+VegetableOils,Vegetable Oil,100ml,800 cal,3360 kJ,TRUE,TRUE,TRUE
+VegetableOils,Walnut Oil,100ml,889 cal,3734 kJ,TRUE,TRUE,TRUE
+VegetableOils,Wheat Germ Oil,100ml,929 cal,3902 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Agar-Agar,100g,26 cal,109 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Agave Syrup,100ml,310 cal,1302 kJ,TRUE,TRUE,TRUE
+BakingIngredients,All Purpose Flour,100ml,364 cal,1529 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Almond Extract,100ml,258 cal,1084 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Almonds,100g,529 cal,2222 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Baking Powder,100g,53 cal,223 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Baking Soda,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Bread Flour,100g,361 cal,1516 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Brittle,100g,592 cal,2486 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Brown Sugar,100g,395 cal,1659 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Buttermilk,100ml,62 cal,260 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Butterscotch Chips,100g,539 cal,2264 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cake Flour,100g,362 cal,1520 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Candied Orange Peel,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cane Sugar,100g,387 cal,1625 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Chocolate Chips,100g,467 cal,1961 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Chocolate Sprinkles,100g,500 cal,2100 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cocoa Powder,100g,228 cal,958 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Coconut Flakes,100g,456 cal,1915 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Coconut Milk,100ml,50 cal,210 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Corn Flour,100g,361 cal,1516 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Corn Syrup,100ml,281 cal,1180 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cornmeal,100g,362 cal,1520 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cornstarch,100g,381 cal,1600 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Couverture,100g,600 cal,2520 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Cream Cheese,100g,54 cal,227 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Cream of Tartar,100g,258 cal,1084 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Crystallized Ginger,100g,335 cal,1407 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Custard Powder,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dark Rum,100ml,216 cal,907 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dextrose,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dried Apricots,100g,241 cal,1012 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dried Cranberries,100g,308 cal,1294 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dried Figs,100g,249 cal,1046 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Dried Prunes,100g,107 cal,449 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Duck Egg,100g,185 cal,777 kJ,FALSE,TRUE,TRUE
+BakingIngredients,Egg,100g,97 cal,407 kJ,FALSE,TRUE,TRUE
+BakingIngredients,Egg Nog,100g,88 cal,370 kJ,FALSE,TRUE,TRUE
+BakingIngredients,Egg White,100g,13 cal,55 kJ,FALSE,TRUE,TRUE
+BakingIngredients,Egg Yolk,100g,322 cal,1352 kJ,FALSE,TRUE,TRUE
+BakingIngredients,Evaporated Milk,100g,134 cal,563 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Flour,100g,364 cal,1529 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Fructose,100g,368 cal,1546 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Gelatin,100g,335 cal,1407 kJ,FALSE,FALSE,TRUE
+BakingIngredients,Glucose,100g,286 cal,1201 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Glucose Syrup,100g,387 cal,1625 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Granulated Sugar,100g,387 cal,1625 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Ground Cinnamon,100g,247 cal,1037 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Hazelnuts,100g,628 cal,2638 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Heavy Cream,100g,345 cal,1449 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Jaggery,100g,383 cal,1609 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Malt Powder,100g,361 cal,1516 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Malted Milk,100g,405 cal,1701 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Maltitol,100g,210 cal,882 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Maltodextrin,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Maltose,100g,344 cal,1445 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Maple Syrup,100ml,270 cal,1134 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Molasses,100g,290 cal,1218 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Nonpareils,100g,475 cal,1995 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Peppermint Extract,100ml,0 cal,0 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Poppy Seeds,100g,525 cal,2205 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Powdered Milk,100g,496 cal,2083 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Powdered Sugar,100g,389 cal,1634 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Protein Powder,100g,411 cal,1726 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Raisins,100g,474 cal,1991 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Rice Milk,100ml,49 cal,206 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Rock Sugar,100g,625 cal,2625 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Rolled Oats,100g,384 cal,1613 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Rum,100ml,246 cal,1033 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Semolina Flour,100g,350 cal,1470 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sesame Seeds,100g,573 cal,2407 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Shredded Coconut,100g,501 cal,2104 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sorbitol,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Soy Milk,100ml,41 cal,172 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Soy Protein Powder,100g,338 cal,1420 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sprinkles,100g,500 cal,2100 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Starch,100g,381 cal,1600 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Strawberry Preserves,100g,278 cal,1168 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sucrose,100g,387 cal,1625 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sugar,100g,405 cal,1701 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sunflower Seeds,100g,117 cal,491 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Sweetened Condensed Milk,100ml,321 cal,1348 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Sweetener,100g,360 cal,1512 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Unsalted Butter,100g,717 cal,3011 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Vanilla Extract,100ml,288 cal,1210 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Vanilla Sugar,100g,357 cal,1499 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Vegetable Oil,100g,884 cal,3713 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Vegetable Shortening,100g,884 cal,3713 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Walnuts,100g,131 cal,550 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Whole Milk,100ml,61 cal,256 kJ,FALSE,TRUE,FALSE
+BakingIngredients,Whole Wheat Flour,100g,340 cal,1428 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Xylitol,100g,240 cal,1008 kJ,TRUE,TRUE,TRUE
+BakingIngredients,Yeast (dry),100g,325 cal,1365 kJ,TRUE,TRUE,TRUE
+Fish&Seafood,Anchovy,100g,131 cal,550 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Bluefish,100g,159 cal,668 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Bream,100g,135 cal,567 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Butterfish,100g,187 cal,785 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Calamari,100g,175 cal,735 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Carp,100g,162 cal,680 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Caviar,100g,264 cal,1109 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Clam,100g,148 cal,622 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Cod,100g,105 cal,441 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Crawfish,100g,82 cal,344 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Crayfish,100g,87 cal,365 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Eel,100g,236 cal,991 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Fish Fingers,100g,290 cal,1218 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Fish Sticks,100g,290 cal,1218 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Flounder,100g,86 cal,361 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Grouper,100g,118 cal,496 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Haddock,100g,90 cal,378 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Hake,100g,71 cal,298 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Halibut,100g,111 cal,466 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Herring,100g,203 cal,853 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Hoki,100g,121 cal,508 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Kipper,100g,217 cal,911 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Ling,100g,109 cal,458 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Lobster,100g,89 cal,374 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Mackerel,100g,262 cal,1100 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Milkfish,100g,190 cal,798 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Monkfish,100g,97 cal,407 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Mullet,100g,150 cal,630 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Mussel,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Octopus,100g,164 cal,689 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Pickerel,100g,111 cal,466 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Pickled Herring,100g,262 cal,1100 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Pike,100g,113 cal,475 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Plaice,100g,91 cal,382 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Pollack,100g,111 cal,466 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Red Snapper,100g,128 cal,538 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Redfish,100g,94 cal,395 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Rollmops,100g,171 cal,718 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Salmon,100g,206 cal,865 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Sardines,100g,208 cal,874 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Scallops,100g,111 cal,466 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Scampi,100g,84 cal,353 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Sea Bass,100g,124 cal,521 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Shad,100g,252 cal,1058 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Shark,100g,130 cal,546 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Smelt,100g,124 cal,521 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Sole,100g,86 cal,361 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Squid,100g,92 cal,386 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Sturgeon,100g,135 cal,567 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Sushi,100g,150 cal,630 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Swordfish,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Triggerfish,100g,93 cal,391 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Trout,100g,190 cal,798 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Tuna,100g,132 cal,554 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Tuna Salad,100g,187 cal,785 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Turbot,100g,122 cal,512 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Wahoo,100g,167 cal,701 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Whitefish,100g,172 cal,722 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Whiting,100g,116 cal,487 kJ,FALSE,FALSE,TRUE
+Fish&Seafood,Zander,100g,84 cal,353 kJ,FALSE,FALSE,TRUE
+Herbs&Spices,Almond Extract,100ml,374 cal,1571 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Anise,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Anise Seed,100g,337 cal,1415 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Arrowroot,100g,65 cal,273 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Arugula,100g,25 cal,105 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Balsamic Vinegar,100ml,88 cal,370 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Basil,100g,233 cal,979 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Black Pepper,100g,251 cal,1054 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Black Sesame Seeds,100g,573 cal,2407 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Broth,100g,100 cal,420 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Capers,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Caraway Seeds,100g,333 cal,1399 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cardamom,100g,311 cal,1306 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cassava,100g,160 cal,672 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cayenne Pepper,100g,318 cal,1336 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chard,100g,19 cal,80 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chicory Greens,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chicory Roots,100g,72 cal,302 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chili,100g,282 cal,1184 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chili Powder,100g,282 cal,1184 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Chives,100g,30 cal,126 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cider Vinegar,100ml,21 cal,88 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cilantro,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cinnamon,100g,247 cal,1037 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cloves,100g,274 cal,1151 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Coriander,100g,23 cal,97 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cream of Tartar,100g,258 cal,1084 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cress,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Crystallized Ginger,100g,335 cal,1407 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cumin,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Cumin Seed,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Curry,100g,325 cal,1365 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Dandelion,100g,45 cal,189 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Dill,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Dill Weed,100g,43 cal,181 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Fennel,100g,31 cal,130 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Fennel Seed,100g,345 cal,1449 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Fenugreek,100g,323 cal,1357 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Garlic,100g,149 cal,626 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Garlic Powder,100g,331 cal,1390 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Garlic Salt,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Ginger,100g,80 cal,336 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Grape Leaves,100g,93 cal,391 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Ground Ginger,100g,335 cal,1407 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Horseradish,100g,48 cal,202 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Hot Pepper,100g,318 cal,1336 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Iodized Salt,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Jalapeno,100g,13 cal,55 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Juniper,100g,45 cal,189 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Lemon Grass,100g,99 cal,416 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Licorice,100g,375 cal,1575 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Maggi,100ml,104 cal,437 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Marjoram,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Minced Onion,100g,40 cal,168 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Mint,100g,70 cal,294 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Mustard Seed,100g,508 cal,2134 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Nutmeg,100g,525 cal,2205 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Okra,100g,33 cal,139 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Onion,100g,40 cal,168 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Onion Powder,100g,341 cal,1432 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Orange Peel,100g,97 cal,407 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Oregano,100g,265 cal,1113 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Paprika,100g,282 cal,1184 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Parsley,100g,36 cal,151 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Parsnip,100g,75 cal,315 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Pepper,100g,251 cal,1054 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Poppy Seed,100g,525 cal,2205 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Poultry Seasoning,100g,307 cal,1289 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Pumpkin Pie Spice,100g,342 cal,1436 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Red Pepper,100g,251 cal,1054 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Red Wine Vinegar,100g,19 cal,80 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Rosemary,100g,131 cal,550 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Saffron,100g,310 cal,1302 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Sage,100g,315 cal,1323 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Salt,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Savory,100g,272 cal,1142 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Sea Salt,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Serrano Pepper,100g,32 cal,134 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Sesame Seeds,100g,573 cal,2407 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Stevia,100g,0 cal,0 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Tamarind,100g,239 cal,1004 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Taro,100g,112 cal,470 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Tarragon,100g,295 cal,1239 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Thyme,100g,276 cal,1159 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Turmeric,100g,354 cal,1487 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Vanilla Bean,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Vanilla Extract,100ml,288 cal,1210 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Vinegar,100ml,18 cal,76 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,White Pepper,100g,296 cal,1243 kJ,TRUE,TRUE,TRUE
+Herbs&Spices,Yam,100g,118 cal,496 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Bagel,100g,257 cal,1079 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Baguette,100g,274 cal,1151 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Biscuit,100g,269 cal,1130 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Black Bread,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Breadsticks,100g,400 cal,1680 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Brown Bread,100g,246 cal,1033 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Bun,100g,316 cal,1327 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Ciabatta,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Cornbread,100g,179 cal,752 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Croissant,100g,406 cal,1705 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Flatbread,100g,311 cal,1306 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Focaccia,100g,249 cal,1046 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Garlic Bread,100g,350 cal,1470 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Hot Dog Buns,100g,279 cal,1172 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Italian Bread,100g,271 cal,1138 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Matzo Bread,100g,351 cal,1474 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Multi-Grain Bread,100g,265 cal,1113 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Naan,100g,275 cal,1155 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Pita Bread,100g,275 cal,1155 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Puff Pastry,100g,558 cal,2344 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Rye Bread,100g,259 cal,1088 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Sandwich Bread,100g,251 cal,1054 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Soda Bread,100g,290 cal,1218 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Sourdough Bread,100g,289 cal,1214 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Toast,100g,261 cal,1096 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Tortilla,100g,297 cal,1247 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Tortilla Bread,100g,265 cal,1113 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",White Bread,100g,238 cal,1000 kJ,TRUE,TRUE,TRUE
+"Pastries,Breads&Rolls",Whole Wheat Bread,100g,247 cal,1037 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Barbecue Sauce,100g,150 cal,630 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Chili Sauce,100g,112 cal,470 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Harissa,100g,52 cal,218 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Hollandaise Sauce,100g,535 cal,2247 kJ,FALSE,TRUE,TRUE
+Sauces&Dressings,Ketchup,100g,100 cal,420 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Mayonnaise,100g,692 cal,2906 kJ,FALSE,TRUE,TRUE
+Sauces&Dressings,Mustard,100g,60 cal,252 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Mustard Sauce,100g,645 cal,2709 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Pesto,100g,458 cal,1924 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Sambal Oelek,100g,21 cal,88 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Sesame Paste,100g,595 cal,2499 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Sour Cream,100g,217 cal,911 kJ,FALSE,TRUE,FALSE
+Sauces&Dressings,Sour Cream Sauce,100g,60 cal,252 kJ,FALSE,TRUE,FALSE
+Sauces&Dressings,Soy Sauce,100ml,67 cal,281 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Sweet and Sour Sauce,100g,179 cal,752 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Tabasco,100g,70 cal,294 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Teriyaki Sauce,100g,89 cal,374 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Thai Curry Paste,100g,155 cal,651 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Tomato Paste,100g,82 cal,344 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Tomato Puree,100g,38 cal,160 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Tomato Sauce,100g,24 cal,101 kJ,TRUE,TRUE,TRUE
+Sauces&Dressings,Tzatziki,100g,94 cal,395 kJ,FALSE,TRUE,FALSE
+Spreads,Almond Butter,100g,614 cal,2579 kJ,TRUE,TRUE,TRUE
+Spreads,Apple Butter,100g,173 cal,727 kJ,TRUE,TRUE,TRUE
+Spreads,Applesauce,100g,68 cal,286 kJ,TRUE,TRUE,TRUE
+Spreads,Apricot Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Blackberry Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Blackcurrant Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Blueberry Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Cheese Spread,100g,290 cal,1218 kJ,FALSE,TRUE,FALSE
+Spreads,Cherry Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Chocolate Spread,100g,541 cal,2272 kJ,TRUE,TRUE,TRUE
+Spreads,Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+Spreads,Grape Jelly,100g,255 cal,1071 kJ,TRUE,TRUE,TRUE
+Spreads,Honey,100g,304 cal,1277 kJ,FALSE,TRUE,TRUE
+Spreads,Jelly,100g,278 cal,1168 kJ,TRUE,TRUE,TRUE
+Spreads,Liverwurst,100g,305 cal,1281 kJ,TRUE,TRUE,TRUE
+Spreads,Margarine,100g,717 cal,3011 kJ,TRUE,TRUE,TRUE
+Spreads,Marmite,100g,225 cal,945 kJ,TRUE,TRUE,TRUE
+Spreads,Marshmallow Fluff,100g,666 cal,2797 kJ,TRUE,TRUE,TRUE
+Spreads,Nutella,100g,544 cal,2285 kJ,FALSE,TRUE,TRUE
+Spreads,Olive Spread,100g,550 cal,2310 kJ,TRUE,TRUE,TRUE
+Spreads,Peanut Butter,100g,589 cal,2474 kJ,TRUE,TRUE,TRUE
+Spreads,Philadelphia Cream Cheese,100g,342 cal,1436 kJ,FALSE,TRUE,FALSE
+Spreads,Plum Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Salted Butter,100g,717 cal,3011 kJ,FALSE,TRUE,FALSE
+Spreads,Strawberry Jam,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Strawberry Jelly,100g,250 cal,1050 kJ,TRUE,TRUE,TRUE
+Spreads,Unsalted Butter,100g,717 cal,3011 kJ,FALSE,TRUE,FALSE
+Spreads,Wild Honey,100g,286 cal,1201 kJ,FALSE,TRUE,TRUE

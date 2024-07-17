@@ -1,0 +1,51 @@
+Dairy product,Type,Calories per 100g or 100ml,Unit (grams or ml)
+Milk,Dairy,42,ml
+Cheese,Dairy,402,grams
+Butter,Dairy,717,grams
+Yogurt,Dairy,61,grams
+Cream,Dairy,340,ml
+Sour Cream,Dairy,198,grams
+Cottage Cheese,Dairy,98,grams
+Cream Cheese,Dairy,342,grams
+Condensed Milk,Dairy,321,ml
+Evaporated Milk,Dairy,82,ml
+Whole Milk,Dairy,61,ml
+Skim Milk,Dairy,35,ml
+Goat Cheese,Dairy,452,grams
+Feta Cheese,Dairy,264,grams
+Mozzarella Cheese,Dairy,300,grams
+Cheddar Cheese,Dairy,406,grams
+Parmesan Cheese,Dairy,431,grams
+Swiss Cheese,Dairy,380,grams
+Provolone Cheese,Dairy,352,grams
+Blue Cheese,Dairy,353,grams
+Almond Milk,Vegan,13,ml
+Soy Milk,Vegan,33,ml
+Coconut Milk,Vegan,230,ml
+Cashew Milk,Vegan,22,ml
+Oat Milk,Vegan,40,ml
+Rice Milk,Vegan,47,ml
+Hemp Milk,Vegan,50,ml
+Hazelnut Milk,Vegan,52,ml
+Macadamia Milk,Vegan,40,ml
+Plant-Based Butter,Vegan,716,grams
+Vegan Cream,Vegan,340,ml
+Vegan Yogurt,Vegan,61,grams
+Vegan Cheese,Vegan,300,grams
+Vegan Sour Cream,Vegan,198,grams
+Vegan Cream Cheese,Vegan,342,grams
+Vegan Condensed Milk,Vegan,321,ml
+Vegan Evaporated Milk,Vegan,82,ml
+Vegan Whipped Cream,Vegan,300,ml
+Vegan Mayonnaise,Vegan,680,grams
+Vegan Ice Cream,Vegan,200,ml
+Vegan Chocolate,Confection,550,grams
+Vegan Yogurt,Dairy Substitute,61,grams
+Vegan Milkshake,Vegan,82,ml
+Vegan Cheese Sauce,Vegan,88,ml
+Vegan Parmesan,Vegan,430,grams
+Vegan Ricotta,Vegan,157,grams
+Vegan Mozzarella,Vegan,300,grams
+Vegan Cheddar,Vegan,406,grams
+Vegan Creamer,Vegan,40,ml
+Vegan Almond Cream,Vegan,24,ml
